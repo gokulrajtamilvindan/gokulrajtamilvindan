@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokulrajtamilvindan
 - 👀 I’m interested in learning code
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning Front-End-Development
 - 💞️ I’m looking to collaborate on no idea
 - 📫 How to reach me gokulraj.tamilvindan@gmail.com
 
