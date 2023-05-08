@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokulrajtamilvindan
 - 👀 I’m interested in learning code
-- 🌱 I’m currently learning Full-Stack-Development
+- 🌱 I’m currently learning JAVA || SQL || HTML || CSS || JAVASCRIPT
 - 💞️ I’m looking to collaborate on no idea
 - 📫 How to reach me gokulraj.tamilvindan@gmail.com
 
